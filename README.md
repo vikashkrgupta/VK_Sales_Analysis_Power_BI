@@ -29,7 +29,9 @@ Sales by Region: Sales distribution across West, East, Central, and South region
 ### Tools and Technologies
 Power BI: Used for data visualization and creating the dashboard.
 
-Data Source: The raw sales data was provided and processed within Power BI.
+Data Set: The raw sales data was provided.
+
+DataSet Source: Pavan Lalwani Youtube Channel
 
 ### How to View the Report
 To view the detailed sales analysis report, you can access the Power BI file included in this repository.
